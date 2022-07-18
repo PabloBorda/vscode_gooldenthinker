@@ -1,0 +1,60 @@
+{
+    "workbench.colorTheme": "Sepia",
+    "pip-updater.VirtualEnv": [
+    
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true,
+    "json.schemas": [],
+    "tabnine.experimentalAutoImports": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "remote.SSH.defaultExtensions": [
+        "gitpod.gitpod-remote-ssh"
+    ],
+    "redhat.telemetry.enabled": true,
+    "git.confirmSync": false,
+    "aws.profile": "profile:prod",
+    "git.suggestSmartCommit": false,
+    "diffEditor.renderSideBySide": false,
+    "editor.suggest.showMethods": true,
+    "editor.suggest.preview": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.snippetSuggestions": "top",
+    "remote.SSH.configFile": "/Users/pablotomasborda/Desktop/IDrive-Sync/ssh.cnf",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editorAssociations": {
+        "*.json": "default"
+    },
+    "workbench.colorCustomizations": {
+    
+        "titleBar.activeBackground": "#004052",
+        "titleBar.activeForeground": "#f1ead8",
+        "titleBar.border": "#004052",
+        "activityBar.foreground": "#004052",
+        "activityBar.inactiveForeground": "#f0e9d7",
+        "activityBar.background": "#004852",
+        "activityBar.activeBackground": "#f0e9d7",
+        "activityBar.border": "#f0e9d7",
+        "activityBar.activeBorder": "#0a342f",
+        "sideBar.background": "#004052",
+        "sideBar.foreground": "#f2e2c0",
+        "sideBarSectionHeader.background": "#396048",
+        "sideBarSectionHeader.foreground": "#f2e2c0",
+        "sideBar.border": "#966e17",
+        "list.activeSelectionBackground": "#f2e2c0",
+        "list.activeSelectionForeground": "#004052",
+        "statusBar.foreground": "#f2e2c0",
+        "statusBar.background": "#004052",
+        "statusBar.border": "#f2e2c0",
+        "panel.border": "#004052",
+        "panelTitle.activeBorder": "#004052",
+        "panelTitle.activeForeground": "#396048",
+        "panelTitle.inactiveForeground": "#004052",
+        "terminalCursor.foreground": "#004052",
+        "terminal.foreground": "#004052",
+        "editorLineNumber.foreground": "#004852",
+        "editorCursor.foreground": "#ff8d0a"
+    }
+}
